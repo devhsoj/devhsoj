@@ -1,4 +1,4 @@
-### 🙋‍♂️ Hey
+### Hey 🙋‍♂️
 
 I'm **Josh**, and I'm a Back End Developer based in Fredericksburg, VA
 
