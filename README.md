@@ -11,5 +11,5 @@ I'm **Josh**, and I'm a Back End Developer based in Fredericksburg, VA
 ---
 ### Check out some of my projects!
 
-* **[keeper](https://github.com/devhsoj/keeper)**:  A simple, secure, and easy to use web based password manager.
-* **[chatup](https://github.com/devhsoj/chatup)**:  An extremely simple, easy to use backup service for twitch messages. 
+**[keeper](https://github.com/devhsoj/keeper)**:  A simple, secure, and easy to use web based password manager.
+**[chatup](https://github.com/devhsoj/chatup)**:  An extremely simple, easy to use backup service for twitch messages. 
