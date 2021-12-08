@@ -1,4 +1,3 @@
-![Hackerman](https://c.tenor.com/xuNo8NDdwIkAAAAd/hackerman.gif)
 ### 🙋‍♂️ Hey
 
 I'm **Josh**, and I'm a Back End Developer based in Fredericksburg, VA
