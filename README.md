@@ -9,8 +9,3 @@ I'm **Josh**, and I'm a Back End Developer based in Stafford, VA
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
-### Check out some of my projects!
-
-**[keeper](https://github.com/devhsoj/keeper)**:  A simple, secure, and easy to use web based password manager.
-<br />
-**[chatup](https://github.com/devhsoj/chatup)**:  An extremely simple, easy to use backup service for twitch messages. 
