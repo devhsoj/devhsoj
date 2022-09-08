@@ -9,6 +9,6 @@ I'm **Josh**, and I'm a Backend Developer based in Stafford, VA
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Currently Learning
-![Rust](https://img.shields.io/badge/rust.svg?style=for-the-badge&logo=rust)
+![Rust](https://img.shields.io/badge/rust-%23B7410E.svg?style=for-the-badge&logo=rust)
 
 ---
